@@ -1,45 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://AnnBackhaus.github.io/Instructor-Best-Practices/reference.html</loc>
   </url>
 </urlset>
